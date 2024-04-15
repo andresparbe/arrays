@@ -1,5 +1,5 @@
 package matriz_unitaria;
-
+//prueba git sexo
 import java.util.Scanner;
 /*
  * progama q inserta 1 en el array que sea el mismo 
